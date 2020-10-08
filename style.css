@@ -1,0 +1,55 @@
+header{
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+    background-color: black;
+    color: white;
+}
+
+.main{
+    text-align: center;
+    background-color: #AAAAAA;
+}
+
+.banner{
+    width: 40%;
+    margin: 80px 0 0 0 ;
+}
+
+.biography{
+    font-size: 20px;
+    margin: 30px 0;
+}
+
+.biography h2{
+    font-weight: bold;
+    font-size: 120%;
+}
+
+.curiosities{
+    font-size: 20px;
+}
+
+.curiosities h2{
+    font-weight: bold;
+    font-size: 120%;
+}
+
+.images{
+    width: 200px;
+    border-radius: 20%;
+}
+
+.items{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    margin: 30px 0 0 0;
+}    
+
+.items p{
+    width: 10%;
+}
+
